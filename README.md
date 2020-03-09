@@ -1,7 +1,7 @@
+[![CircleCI](https://circleci.com/gh/brenj/ml-microservice-api.svg?style=shield)](https://circleci.com/gh/brenj/ml-microservice-api)
+
 Project: Operationalize a Machine Learning Microservice API
 ===========================================================
-
-[![CircleCI](https://circleci.com/gh/brenj/ml-microservice-api.svg?style=shield)](https://circleci.com/gh/brenj/ml-microservice-api)
 
 About
 -----
