@@ -34,7 +34,7 @@ Run in Container
 
 Project Files
 -------------
-
+```
 ├── Dockerfile
 ├── Makefile
 ├── README.md
@@ -53,6 +53,7 @@ Project Files
     └── upload_docker.sh
 
 3 directories, 13 files
+```
 
 Grading (by Udacity)
 --------------------
