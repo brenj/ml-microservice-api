@@ -1,18 +1,7 @@
 #!/usr/bin/env bash
 
-# This tags and uploads an image to Docker Hub
+DOCKERPATH="brenj/ml-microservice-api:latest"
 
-# Step 1:
-# This is your Docker ID/path
-# dockerpath=<>
-
-# Step 2
-# Run the Docker Hub container with kubernetes
-
-
-# Step 3:
-# List kubernetes pods
-
-# Step 4:
-# Forward the container port to a host
-
+kubectl create deployment ml-microservice-api --image="${DOCKERPATH}"
+kubectl get pods
+kubectl port-forward deployment/ml-microservice-api 8000:80
