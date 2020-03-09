@@ -26,11 +26,13 @@ Run on Local System
 2. `source ~/.devops/bin/activate`
 3. `make install`
 4. `python3 app.py`
+5. To generate data, run `./scripts/make_prediction.sh` in a separate terminal
 
 Run in Container
 ----------------
 
 1. `./scripts/run_docker.sh` or `./scripts/run_kubernetes.sh`
+2. To generate data, run `./scripts/make_prediction.sh` in a separate terminal
 
 Project Files
 -------------
