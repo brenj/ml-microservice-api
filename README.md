@@ -62,7 +62,7 @@ Grading (by Udacity)
 
 Criteria                              |Highest Grade Possible  |Grade Recieved
 --------------------------------------|------------------------|--------------------
-Files Submitted                       |Meets Specifications    |
-Code Quality & Enhancement            |Meets Specifications    |
-Docker Configuration                  |Meets Specifications    |
-Kubernetes Configuration              |Meets Specifications    |
+Files Submitted                       |Meets Specifications    |Meets Specifications
+Code Quality & Enhancement            |Meets Specifications    |Meets Specifications
+Docker Configuration                  |Meets Specifications    |Meets Specifications
+Kubernetes Configuration              |Meets Specifications    |Meets Specifications
